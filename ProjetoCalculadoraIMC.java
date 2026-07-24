@@ -53,3 +53,5 @@ public class ProjetoCalculadoraIMC extends Application {
 		launch(args);
 	}
 }
+
+//
