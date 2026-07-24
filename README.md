@@ -4,7 +4,8 @@ Projeto desenvolvido em Java para calcular o Índice de Massa Corporal (IMC).
 
 ## Tecnologias utilizadas
 
-- Java e JavaFX
+- Java
+- JavaFX
 
 ## Funcionalidades
 
