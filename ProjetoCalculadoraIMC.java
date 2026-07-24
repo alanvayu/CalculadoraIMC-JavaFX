@@ -53,24 +53,3 @@ public class ProjetoCalculadoraIMC extends Application {
 		launch(args);
 	}
 }
-
-/* Observações de melhorias
-Tratamento de Exception
-             try {
-             	//Peso
-             	//Altura
-             	//Cálculo IMC
-             	//Resultado por ultimo
-             } catch (NumberFormatException ae) {
-             	etiquetaResultado.setText("Por favor, insira números válidos
-             	 para peso e altura.");
-             }
-
-Conversão para separação de casas decimais com virgula:
-
-//double peso = Double.parseDouble(campoPeso.getText().replace(",", "."));
-//double altura = Double.parseDouble(campoAltura.getText().replace(",", "."));
-
-*/
-
-//javac --module-path "%PATH_TO_FX%" --add-modules javafx.controls ProjetoCalculadoraIMC.java
